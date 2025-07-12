@@ -74,22 +74,23 @@ header h1 {
 footer {
     margin-top: 40px;
     text-align: center;
-    color: #dcdde1;
+    color: #ffffff;
     font-size: 0.9em;
 }
 
 /*lien réseaux*/
-.lien2 a{
-  color: #007BFF;
+.lien2 b{
+  color: #f82500;
   text-decoration: none;
-  font-weight: bolt;
-  transition: color 0.2s ease, transform 0.2s ease;
+  font-weight:bold;
+  transition: color 0.3s ease, transform 0.3s ease;
 }
 
-.liens2 a:hover {
-   color: #27ae60;
+.liens2 b:hover{
+   color: #05fd6c;
    transform: scale(1.05);
 }
+
  .FM {
-    text-align: center;
- }
+    text-align:center;
+}
