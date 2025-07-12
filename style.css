@@ -79,18 +79,12 @@ footer {
 }
 
 /*lien réseaux*/
-.lien2 b{
+.lien2 {
   color: #f82500;
   text-decoration: none;
   font-weight:bold;
   transition: color 0.3s ease, transform 0.3s ease;
 }
-
-.liens2 b:hover{
-   color: #05fd6c;
-   transform: scale(1.05);
-}
-
  .FM {
     text-align:center;
 }
