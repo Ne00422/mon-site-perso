@@ -85,7 +85,11 @@ footer {
   font-weight: bolt;
   transition: color 0.2s ease, transform 0.2s ease;
 }
+
 .liens2 a:hover {
    color: #27ae60;
    transform: scale(1.05);
 }
+ .FM {
+    text-align: center;
+ }
